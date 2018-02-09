@@ -1,0 +1,14 @@
+<Alloy>
+	<Window class="container">
+		
+		<TextField id="textField1" color="Black" borderStyle="Ti.UI.INPUT_BORDERSTYLE_ROUNDED" textAlign="Ti.UI.TEXT_ALIGNMENT_LEFT" top="80" left="60" width="250" height="30">
+			 
+		</TextField>
+		
+		<TextField id="textField2" color="Black" borderStyle="Ti.UI.INPUT_BORDERSTYLE_ROUNDED" textAlign="Ti.UI.TEXT_ALIGNMENT_LEFT" top="130" left ="60" width="250" height="30">
+			
+		</TextField>
+		
+		<Button id="Btn_login" title="LogIn" right="60" left="60" top="180" textAlign="Ti.UI.TEXT_ALIGNMENT_CENTER" height="30" onClick="CheckLogIn" ></Button>
+	</Window>
+</Alloy>
